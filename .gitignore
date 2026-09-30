@@ -39,3 +39,6 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+.agents/mcp_config.json
+mcp_config.json
